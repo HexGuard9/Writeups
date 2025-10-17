@@ -12,8 +12,8 @@ Structure of writeups inspired by: yufongg/writeups (https://github.com/yufongg/
 | VulnHub | Jangow01 |
 
 
-## CTF machines
+## Reports
 
 | Machine | Platform | Report    |
 |-----------|----------|----------|
-| Jangow01 | Vulnhub |            |
+| Jangow01 | Vulnhub | [View](Vulnhub/Jangow01/Jangow01.md)  |
