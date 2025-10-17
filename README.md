@@ -5,7 +5,7 @@ A repository where i post different writeups
 Structure of writeups inspired by: yufongg/writeups (https://github.com/yufongg/writeups)
 
 
-## Machines:
+## Content:
 
 | Platforms | Machines |
 |-----------|----------|
